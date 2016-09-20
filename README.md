@@ -1,4 +1,4 @@
 # EC601-Project
 EC601 Project
-Xianglin Zhou
+/nXianglin Zhou
 Xinran Li
