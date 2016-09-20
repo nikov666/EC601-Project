@@ -19,7 +19,7 @@ import cv2
 from gaussian_mix import make_gaussians
 
 if __name__ == '__main__':
-    cluster_n = 5
+    cluster_n = 4
     img_size = 512
 
     print(__doc__)
